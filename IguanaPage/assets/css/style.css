@@ -1,0 +1,176 @@
+body{
+    background-color: #000;
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+     font-size: 50px; 
+     font-weight: medium;
+    color: #ffff;
+    text-align: center;   
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight:lighter ;
+    font-size: 24px;    
+    color: #ffff;
+    text-align: center;   
+
+}
+#igbg{
+    width: 100%;
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+    font-weight:lighter ;
+    font-size: 16px;    
+    color: #ffff;
+}
+
+section{
+    display: flex;
+    background-color:#000; 
+    height: 300px;
+}
+
+#desc{
+    display:inline-block;
+    width: 50%;
+    margin-top: 50px;
+    margin-left:100px;
+    margin-right:100px;
+    
+    background-color:#000;
+    text-align: justify;
+    
+}
+
+#ig1{
+    width: 50%;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    
+    background-color:#000;   
+}
+#img1{
+    width: 380px;
+    height: 250px;
+}
+
+article{
+    background-color: #1e1a13;
+
+}
+#caract{
+  background-color:#1e1a13;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+    
+    text-align: center;
+
+    color:#ffff;
+}
+
+#caract_titulo{
+    
+    
+    font-family: 'Raleway', sans-serif;
+     font-size: 40px; 
+     font-weight: medium;
+    
+
+
+}
+#contCaract{
+   display: flex;
+   justify-content:space-evenly;
+   align-items: center;
+   
+    height: 200px;
+    
+    
+  
+}
+#ojo{
+    display:inline-block;
+    text-align: center;
+    
+    background-color:#1e1a13;
+   
+}
+
+#paz{
+
+    display:inline-block;
+    text-align: center;
+    
+    background-color:#1e1a13;
+    
+}
+
+#color{
+    display:inline-block;
+    text-align: center;
+    
+    background-color:#1e1a13;
+    
+}
+.fa-eye {     
+        
+    width: 100%;
+    color: #ffff;
+    
+}
+
+
+
+
+.fa-angellist{
+    
+    width: 100%;
+    color: #ffff;
+}
+.fa-paint-brush{
+    
+    width: 100%;
+    color: #ffff;
+}
+
+#imigu2,#imigu3,#imigu4{
+
+    width: 350px;
+    height:220px
+}
+#igu2{
+    margin-right: 20px;
+}
+#igu4{
+    margin-left: 20px;
+}
+aside{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    height: 300px;
+}
+
+footer{
+    height: 100px;
+    background-color:#1e1a13 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight:lighter ;
+    font-size: 20px;    
+    
+    
+}

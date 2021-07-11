@@ -1,0 +1,89 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+#nav-bar{
+    background-color:#e83e8c;
+}
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight:bold;
+    font-size: 60px;    
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight:lighter ;
+    font-size: 40px;    
+    color: #ffff;
+}
+
+
+
+
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight:lighter ;
+    font-size: 16px;   
+    
+}
+#top{
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;        
+}
+#ini,#prod,#contac{
+    margin-right: 20px;
+    color: #fff;
+}
+
+#contac{
+    margin-right: 100px;
+}
+
+#suri-top{
+
+    margin-left: 100px;
+}
+
+header{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+section{
+
+background-color:#fff;
+}
+
+aside{
+    display: flex;
+    justify-content:center;
+align-items:center;
+    
+    align-content: space-around;
+    height: 150px;
+    background-color: #17a2b8;
+}
+
+.fa-cc-visa,.fa-cc-mastercard,.fa-cc-amex,.fa-cc-diners-club,.fa-cc-paypal,.fa-cc-discover{
+    color: #ffff;
+    width: 80px;
+    height: 53px;
+}
+
+#platos-top,#platos-down{
+    margin-bottom: 30px;
+}
+
+footer{
+    display: flex;    
+    justify-content:center;
+    align-items:center;
+    height: 150px;
+    background-color:#e83e8c;
+
+}
